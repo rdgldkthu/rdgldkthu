@@ -7,14 +7,7 @@ I'm Dukkyu Lim (임덕규, 任德珪)
 📚 Learning optimization, perception, and autonomous systems  
 
 ## Tech Stack
-- C++ / CMake
-- Python
-- MATLAB / Simulink
-- OpenCV
-- Eigen / Sophus
-- g2o / Ceres
-- Linux
-- Git
+C++ / CMake • Python • MATLAB / Simulink • OpenCV • Eigen / Sophus • g2o / Ceres • Linux • Git
 
 ## Current Focus
 - Visual SLAM
