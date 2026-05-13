@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm Dukkyu Lim (임덕규, 任德珪)
 
-🎓 Automation student at Tsinghua University  
+🎓 Student @ Dept. of Automation, Tsinghua University  
 🤖 Interested in Image Processing, Computer Vision, 3D Reconstruction, and SLAM  
-📚 Learning optimization, point cloud processing  
+📚 Learning Optimization, Point Cloud Processing  
 
 ## Tech Stack
 Python • C++ / CMake • MATLAB / Simulink • Linux • Git  
@@ -11,7 +11,7 @@ OpenCV • Eigen / Sophus • g2o / Ceres
 
 ## Projects
 - Stereo Visual Odometry
-- 3DGS in real-world outdoor scene
+- 3DGS in Real-World Outdoor Scene
 - Fingerprint Recognition
 
 ## Contact
