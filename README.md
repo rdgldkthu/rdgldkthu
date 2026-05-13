@@ -2,12 +2,12 @@
 I'm Dukkyu Lim (임덕규, 任德珪)
 
 🎓 Automation student at Tsinghua University  
-🤖 Interested in Image Processing, Computer Vision, 3D Reconstruction, and SLAM 
-📚 Learning optimization, point cloud processing 
+🤖 Interested in Image Processing, Computer Vision, 3D Reconstruction, and SLAM  
+📚 Learning optimization, point cloud processing  
 
 ## Tech Stack
-Python • C++ / CMake • MATLAB / Simulink • Linux • Git
-OpenCV • Eigen / Sophus • g2o / Ceres
+Python • C++ / CMake • MATLAB / Simulink • Linux • Git  
+OpenCV • Eigen / Sophus • g2o / Ceres  
 
 ## Projects
 - Stereo Visual Odometry
