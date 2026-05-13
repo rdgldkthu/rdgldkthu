@@ -2,17 +2,12 @@
 I'm Dukkyu Lim (임덕규, 任德珪)
 
 🎓 Automation student at Tsinghua University  
-🤖 Interested in Computer Vision, Image Processing, 3D Reconstruction, SLAM, and Robotics  
-💻 Currently building Visual Odometry system with C++, Eigen, and OpenCV  
-📚 Learning optimization, perception, and autonomous systems  
+🤖 Interested in Image Processing, Computer Vision, 3D Reconstruction, and SLAM 
+📚 Learning optimization, point cloud processing 
 
 ## Tech Stack
-C++ / CMake • Python • MATLAB / Simulink • OpenCV • Eigen / Sophus • g2o / Ceres • Linux • Git
-
-## Current Focus
-- Visual SLAM
-- Bundle Adjustment
-- Stereo Vision
+Python • C++ / CMake • MATLAB / Simulink • Linux • Git
+OpenCV • Eigen / Sophus • g2o / Ceres
 
 ## Projects
 - Stereo Visual Odometry
