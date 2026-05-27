@@ -3,11 +3,11 @@ I'm Dukkyu Lim (임덕규, 任德珪)
 
 🎓 Student @ Dept. of Automation, Tsinghua University  
 🤖 Interested in Image Processing, Computer Vision, 3D Reconstruction, and SLAM  
-📚 Learning Optimization, Point Cloud Processing  
+📚 Currently working on: ceres vs g2o comparison, VO -> SLAM upgrade
 
 ## Tech Stack
 Python • C++ / CMake • MATLAB / Simulink • Linux • Git  
-OpenCV • Eigen / Sophus • g2o / Ceres  
+NumPy • OpenCV • Eigen
 
 ## Projects
 - Stereo Visual Odometry
