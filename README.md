@@ -5,15 +5,6 @@ I'm Dukkyu Lim (임덕규, 任德珪)
 🤖 Interested in Image Processing, Computer Vision, 3D Reconstruction, and SLAM  
 📚 Currently working on: ceres vs g2o comparison, VO -> SLAM upgrade
 
-## Tech Stack
-Python • C++ / CMake • MATLAB / Simulink • Linux • Git  
-NumPy • OpenCV • Eigen
-
-## Projects
-- Stereo Visual Odometry
-- 3DGS in Real-World Outdoor Scene
-- Fingerprint Recognition
-
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dukkyu-lim/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdgldk@gmail.com)
