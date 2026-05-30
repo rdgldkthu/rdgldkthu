@@ -2,7 +2,7 @@
 I'm Dukkyu Lim (임덕규, 任德珪)
 
 🎓 Student @ Dept. of Automation, Tsinghua University  
-🤖 Interested in Image Processing, Computer Vision, 3D Reconstruction, and SLAM  
+🤖 Interested in Sptial AI, 3D Vision, Autonomous Driving, Robotics and SLAM  
 📚 Currently working on VO -> SLAM upgrade
 
 ## Contact
